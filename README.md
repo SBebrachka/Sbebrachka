@@ -1,6 +1,6 @@
 ## Hello my name is Simon
 ### 👨‍💻 About me:
-- Python/SQL developer
+- Go/Python/SQL developer
 - intersted in programming
 - MSTU student Stankin
 ### My experience 
